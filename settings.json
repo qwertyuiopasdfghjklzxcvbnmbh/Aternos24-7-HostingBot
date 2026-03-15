@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Caftoteens.aternos.me:22803",
+    "ip": "Caftoteens.aternos.me",
     "port": 12959,
     "version": "",
     "try-creative": false
